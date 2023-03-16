@@ -1,4 +1,4 @@
-.//c++ code for printing rightdown triangle
+//c++ code for printing rightdown triangle
 #include <iostream>
 using namespace std;
 
